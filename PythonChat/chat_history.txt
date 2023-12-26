@@ -1,0 +1,2 @@
+user: what is 2 + 2
+assistant: 2 + 2 is equal to 4.
